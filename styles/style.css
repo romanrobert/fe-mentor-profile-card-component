@@ -32,7 +32,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   background-color: #19a2ae;
-  background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
+  background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
   background-position: top -40rem left -40rem , bottom -40rem right -40rem;
   background-repeat: no-repeat;
 }
